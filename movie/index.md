@@ -5,7 +5,7 @@ layout: home
 <div class="index-content life">
     <div class="section">
         <ul class="artical-cate">
-            <li><a href="/"><span>Blog</span></a></li>
+            <li><a href="/"><span>work</span></a></li>
             <li style="text-align:center"><a href="/movie"><span>movie</span></a></li>
             <li class="on" style="text-align:right"><a href="/life"><span>life</span></a></li>
         </ul>
