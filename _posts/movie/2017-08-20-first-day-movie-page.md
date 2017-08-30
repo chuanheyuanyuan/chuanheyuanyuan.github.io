@@ -10,9 +10,10 @@ category: movie
 **markdown**能否正常使用
 *代码块*
 
-	```
-	ping 192.168.0.1
-	```
+```
+ping 192.168.0.1
+```
+	
 [链接](https://chuanheyuanyuan.github.io)
 页面能否正常显示
 能否正常commit
