@@ -5,8 +5,23 @@ description: 熟悉这个过程，方便DIY
 category: work
 music-url: //music.163.com/style/swf/widget.swf?sid=29572804&type=2&auto=1&width=278&height=32
 ---
+## 环境准备
+### 安装yum源
+```
+yum install -y epel-release 
+```
 
+### 安装pip
+```
+yum install -y python-pip
+```
 
+### 安装依赖包
+···
+yum install -y python-devel libffi-devel openssl-devel gcc python-setuptools git 
+···
+
+## 开始安装
 ### 从github上拉取kolla
 ```
 git clone https://github.com/openstack/kolla
