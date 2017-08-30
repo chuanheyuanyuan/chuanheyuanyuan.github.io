@@ -21,6 +21,7 @@ tox -e genconfig
 - 执行完以上动作，会在./etc/kolla下生成一个kolla-build.conf的文件
 - 这个动作是执行了koll/common/config.py文件，如果想改变kolla-build.conf，可以修改这个py文件
 - conf文件中配置build的模式有如下几种
+
 ```
 [glance-base]
 type = url
