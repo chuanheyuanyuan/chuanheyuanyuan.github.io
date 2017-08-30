@@ -1,7 +1,4 @@
-auto: true
 
-highlighter: 'pygments'
-#paginate: 8
 permalink: /:title
 
 name: “槑川子的胡言乱语”
