@@ -2,13 +2,14 @@
 layout: post
 title: 测试日志
 description: 第一篇日志.
-category: work
+category: movie
 ---
 
 
 ####测试项目
 - **markdown**能否正常使用
 	-*代码块*
+	
 	```bash
 	ping 192.168.0.1
 	```
