@@ -11,7 +11,7 @@ category: life
 	-*代码块*
 	
 	
-	```bash
+	```ruby
 	ping 192.168.0.1
 	```
 	-[链接](https://chuanheyuanyuan.github.io)

@@ -9,7 +9,7 @@ category: work
 ####测试项目
 - **markdown**能否正常使用
 	-*代码块*
-	```bash
+	```java
 	ping 192.168.0.1
 	```
 	-[链接](https://chuanheyuanyuan.github.io)
