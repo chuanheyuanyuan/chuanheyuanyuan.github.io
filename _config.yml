@@ -3,9 +3,9 @@ markdown: kramdown
 
 permalink: /:title
 
-name: “槑川子的胡言乱语”
+name: “小氚子的狐言乱语”
 title: cc
-description: 我瞎说的，你千万别信
+description: 我瞎说的，你千万别当真
 url: http://chuanheyuanyuan.github.io
 feed: /atom.xml
 author_info: <a href="http://chuanheyuanyuan.github.io/">chuanheyuanyuan</a>
