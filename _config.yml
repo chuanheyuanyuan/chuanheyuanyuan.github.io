@@ -1,4 +1,6 @@
 
+markdown: kramdown
+
 permalink: /:title
 
 name: “槑川子的胡言乱语”
