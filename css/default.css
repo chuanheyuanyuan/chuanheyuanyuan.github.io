@@ -84,10 +84,10 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     background-position:50% 50%;
 }
 .blog .aside{
-    background-image:url(https://b-ssl.duitang.com/uploads/item/201705/16/20170516211933_xUdvk.jpeg;
+    background-image:url('https://b-ssl.duitang.com/uploads/item/201705/16/20170516211933_xUdvk.jpeg');
 }
 .movie .aside{
-    background-image:url(https://b-ssl.duitang.com/uploads/item/201705/16/20170516211933_xUdvk.jpeg);
+    background-image:url('https://b-ssl.duitang.com/uploads/item/201705/16/20170516211933_xUdvk.jpeg');
 }
 .life .aside{
     background-image:url('https://b-ssl.duitang.com/uploads/item/201705/16/20170516211933_xUdvk.jpeg')
