@@ -12,7 +12,7 @@ music-url: //music.163.com/style/swf/widget.swf?sid=29572804&type=2&auto=1&width
 git clone https://github.com/openstack/kolla
 ```
 
-###生成kolla-build.conf
+### 生成kolla-build.conf
 ```
 pip install tox
 tox -e genconfig
@@ -42,12 +42,12 @@ location = /tmp/ironic.tar.gz
 ```
 
 
-###安装kolla-build
+### 安装kolla-build
 ```
 python setup.py build
 ```
 
-###执行build
+### 执行build
 ```
 python tools/build.py keystone
 ```
