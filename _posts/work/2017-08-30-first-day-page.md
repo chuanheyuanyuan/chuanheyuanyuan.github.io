@@ -3,6 +3,7 @@ layout: post
 title: 测试日志
 description: 第一篇日志.
 category: work
+music-id: 26522011
 ---
 
 
