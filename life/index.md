@@ -2,18 +2,18 @@
 layout: home
 ---
 
-<div class="index-content movie">
+<div class="index-content life">
     <div class="section">
         <ul class="artical-cate">
             <li><a href="/"><span>work</span></a></li>
-            <li class="on" style="text-align:center"><a href="/life"><span>life</span></a></li>
-            <li style="text-align:right"><a href="/movie"><span>movie</span></a></li>
+            <li style="text-align:center"><a href="/movie"><span>movie</span></a></li>
+            <li class="on" style="text-align:right"><a href="/life"><span>life</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.life %}
+        {% for post in site.categories.movie %}
             <li>
                 <h2>
                     <a href="{{ post.url }}">{{ post.title }}</a>
