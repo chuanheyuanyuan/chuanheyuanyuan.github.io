@@ -30,6 +30,7 @@ git clone https://github.com/openstack/kolla
 ### 生成kolla-build.conf
 ```
 pip install tox
+pip install -r requirements.txt -r test-requirements.txt tox
 tox -e genconfig
 ```
 注意几点：
