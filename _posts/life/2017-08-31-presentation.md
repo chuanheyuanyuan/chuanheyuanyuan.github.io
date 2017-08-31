@@ -3,7 +3,7 @@ layout: post
 title: How to enjoy a presentation
 category: life
 description: 海涛的docker分享以及走神时候的一些想法
-music-url: //music.163.com/style/swf/widget.swf?sid=32785700&type=2&auto=1&width=278&height=32
+music-url: //music.163.com/outchain/player?type=2&id=41640165&auto=1&height=66
 ---
 ### 海涛演讲的几点记录、
 #### docker使用的注意事项
