@@ -3,7 +3,7 @@ layout: post
 title: 测试日志
 description: 第一篇日志.
 category: work
-music-url: //music.163.com/style/swf/widget.swf?sid=326997&type=2&auto=1&width=278&height=32
+music-url: //music.163.com/outchain/player?type=2&id=41640165&auto=1&height=66
 ---
 
 

@@ -3,7 +3,7 @@ layout: post
 title: 使用kolla构造openstack镜像
 description: 熟悉这个过程，方便DIY
 category: work
-music-url: //music.163.com/style/swf/widget.swf?sid=29572804&type=2&auto=1&width=278&height=32
+music-url: //music.163.com/outchain/player?type=2&id=41640165&auto=1&height=66
 ---
 ## 环境准备
 ### 安装yum源
