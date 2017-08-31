@@ -17,9 +17,9 @@ yum install -y python-pip
 ```
 
 ### 安装依赖包
-···
+```
 yum install -y python-devel libffi-devel openssl-devel gcc python-setuptools git 
-···
+```
 
 ## 开始安装
 ### 从github上拉取kolla
