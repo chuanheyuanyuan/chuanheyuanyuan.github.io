@@ -21,6 +21,12 @@ yum install -y python-pip
 yum install -y python-devel libffi-devel openssl-devel gcc python-setuptools git 
 ```
 
+### 安装docker
+```
+yum install docker
+pip install docker-py
+```
+
 ## 开始安装
 ### 从github上拉取kolla
 ```
